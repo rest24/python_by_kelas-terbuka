@@ -1,4 +1,4 @@
-'''#No 1
+#No 1
 #-------0++++++5------8++++++11------
 inputPengguna = float(input("Masukkan Angka :"))
 
@@ -20,7 +20,7 @@ d = (inputPengguna < 11)
 print("Kurang Dari 11 = ", d)
 hasil = (a and b) or (c and d )
 print("Angka yang anda masukkan adalah = ",hasil)
-'''
+
 
 
 print("\n",20*"=","\n")
