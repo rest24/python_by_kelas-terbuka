@@ -1,6 +1,6 @@
 # Belajar Casting 
 # Merubah dari satu tipe ke tipe lain
-# tipr data = int, floar, string, bool
+# tipe data = int, floar, string, bool
 
 ## INTEGER 
 data_int = 9;
